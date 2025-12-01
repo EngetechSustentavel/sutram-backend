@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "usuario": "Luiz",
+      "senha": "Enge01@",
+      "nome": "Administrador",
+      "perfil": "admin"
+    },
+    {
+      "id": 2,
+      "usuario": "Gleuber",
+      "senha": "Enge02#",
+      "nome": "Operador SUTRAM",
+      "perfil": "operador"
+    },
+    {
+      "id": 3,
+      "usuario": "George",
+      "senha": "Enge03$",
+      "nome": "Fiscal de Trânsito",
+      "perfil": "fiscal"
+    }
+  ],
+  "protocolos": [],
+  "sugestoes": {
+    "solicitantes": [
+      "Prefeitura Municipal",
+      "Embasa",
+      "Coelba",
+      "Morador",
+      "Empresa Privada"
+    ],
+    "enderecos": [
+      "Centro",
+      "Zona Sul",
+      "Zona Norte",
+      "Zona Oeste",
+      "Pontal",
+      "Malhado",
+      "Conquista"
+    ]
+  }
+}
