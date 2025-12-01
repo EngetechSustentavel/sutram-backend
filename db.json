@@ -4,41 +4,27 @@
       "id": 1,
       "usuario": "Luiz",
       "senha": "Enge01@",
-      "nome": "Administrador",
+      "nome": "Luiz - Admin",
       "perfil": "admin"
     },
     {
       "id": 2,
-      "usuario": "Gleuber",
+      "usuario": "Glauber",
       "senha": "Enge02#",
-      "nome": "Operador SUTRAM",
+      "nome": "Glauber - Operador",
       "perfil": "operador"
     },
     {
       "id": 3,
       "usuario": "George",
       "senha": "Enge03$",
-      "nome": "Fiscal de Trânsito",
+      "nome": "George - Fiscal",
       "perfil": "fiscal"
     }
   ],
   "protocolos": [],
   "sugestoes": {
-    "solicitantes": [
-      "Prefeitura Municipal",
-      "Embasa",
-      "Coelba",
-      "Morador",
-      "Empresa Privada"
-    ],
-    "enderecos": [
-      "Centro",
-      "Zona Sul",
-      "Zona Norte",
-      "Zona Oeste",
-      "Pontal",
-      "Malhado",
-      "Conquista"
-    ]
+    "solicitantes": ["Prefeitura", "Morador", "Empresa"],
+    "enderecos": ["Centro", "Zona Sul", "Zona Norte"]
   }
 }
